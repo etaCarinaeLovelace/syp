@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T19:58:36.294Z" agent="5.0 (Windows)" etag="ZcHScoLPqPkz4avk_l7H" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-17T20:02:16.393Z" agent="5.0 (Windows)" etag="1GuaNJa0e8yIfdZ29av1" version="13.9.9" type="github">
   <diagram id="NjPx6L6P-f17HurSo4oa" name="Page-1">
     <mxGraphModel dx="862" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
         <mxCell id="tBXFolUEibetbll4YTJQ-19" value="&lt;div&gt;&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;CO&lt;sub&gt;2&lt;/sub&gt;-Sensor&lt;/strong&gt;&lt;/div&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="60" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tBXFolUEibetbll4YTJQ-20" value="&lt;div&gt;&amp;lt;&amp;lt;actor&amp;gt;&amp;gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Luftfeuchtigkeit-&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Sensor&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="html=1;" vertex="1" parent="1">
+        <mxCell id="tBXFolUEibetbll4YTJQ-20" value="&lt;div&gt;&amp;lt;&amp;lt;actor&amp;gt;&amp;gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Luftfeuchtigkeits-&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Sensor&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="143" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tBXFolUEibetbll4YTJQ-21" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tBXFolUEibetbll4YTJQ-13">
