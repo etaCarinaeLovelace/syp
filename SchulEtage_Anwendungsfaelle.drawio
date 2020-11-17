@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2020-11-17T12:03:32.966Z" agent="5.0 (Windows)" version="13.9.9" etag="Hg_MoMoaAu6XMN5eI1Pd" type="github"><diagram id="NjPx6L6P-f17HurSo4oa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-17T19:29:38.436Z" agent="5.0 (Windows)" etag="9AdOWb4y6Ius12sHOXXh" version="13.9.9" type="github">
+  <diagram id="NjPx6L6P-f17HurSo4oa" name="Page-1">
+    <mxGraphModel dx="862" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tBXFolUEibetbll4YTJQ-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="30" width="450" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="tBXFolUEibetbll4YTJQ-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;line-height: 115% ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;sans-serif&amp;#34;&quot;&gt;Smart&lt;sup&gt;+&lt;/sup&gt;SchuleIS&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tBXFolUEibetbll4YTJQ-4" value="Lehrer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="145" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tBXFolUEibetbll4YTJQ-5" value="/LF10/ &lt;b&gt;Luftqualität&lt;/b&gt; abfragen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tBXFolUEibetbll4YTJQ-7" value="0..*" style="endArrow=none;html=1;entryX=0.033;entryY=0.325;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tBXFolUEibetbll4YTJQ-4" target="tBXFolUEibetbll4YTJQ-5">
+          <mxGeometry x="0.532" y="-9" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="160" as="sourcePoint" />
+            <mxPoint x="200" y="110" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBXFolUEibetbll4YTJQ-8" value="Schüler" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="85" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tBXFolUEibetbll4YTJQ-9" value="&lt;div align=&quot;right&quot;&gt;0..*&lt;/div&gt;" style="endArrow=none;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.017;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;align=right;" edge="1" parent="1" source="tBXFolUEibetbll4YTJQ-8" target="tBXFolUEibetbll4YTJQ-5">
+          <mxGeometry x="0.7509" y="9" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="80" as="sourcePoint" />
+            <mxPoint x="190" y="30" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBXFolUEibetbll4YTJQ-10" value="&lt;div&gt;/LF20/ &lt;strong&gt; CO&lt;sub&gt;2&lt;/sub&gt;-Konzentration &lt;/strong&gt;messen&lt;/div&gt;&lt;strong&gt;&lt;/strong&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="65" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="tBXFolUEibetbll4YTJQ-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.008;exitY=0.35;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tBXFolUEibetbll4YTJQ-5" target="tBXFolUEibetbll4YTJQ-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="160" as="sourcePoint" />
+            <mxPoint x="500" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tBXFolUEibetbll4YTJQ-13" value="&lt;div&gt;/LF30/ &lt;b&gt;Luft-&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Feuchtigkeit&lt;/b&gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;messen&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="137.5" width="110" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="tBXFolUEibetbll4YTJQ-14" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tBXFolUEibetbll4YTJQ-5" target="tBXFolUEibetbll4YTJQ-13">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="180" as="sourcePoint" />
+            <mxPoint x="420" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
