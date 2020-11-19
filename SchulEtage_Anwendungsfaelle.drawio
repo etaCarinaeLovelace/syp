@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T18:05:33.022Z" agent="5.0 (Windows)" etag="10LSxl_0yiMiuKwB5-fm" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T18:20:56.057Z" agent="5.0 (Windows)" etag="nEVoBnCov0Z2A-GO-HAt" version="13.10.0" type="github">
   <diagram id="NjPx6L6P-f17HurSo4oa" name="Page-1">
     <mxGraphModel dx="1014" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="tBXFolUEibetbll4YTJQ-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="150" y="30" width="570" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="tBXFolUEibetbll4YTJQ-3" value="&lt;div align=&quot;center&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;SchulEtageIS&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="385" y="50" width="75" height="20" as="geometry" />
+        <mxCell id="tBXFolUEibetbll4YTJQ-3" value="&lt;div align=&quot;center&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;IoT-SchulEtageIS&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="382" y="51" width="158" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tBXFolUEibetbll4YTJQ-4" value="Lehrer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="190" width="20" height="40" as="geometry" />
@@ -55,7 +55,7 @@
             <mxPoint x="596.2715686819859" y="107.54728372643808" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tBXFolUEibetbll4YTJQ-22" value="LED-Display" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kitchen-appliances-computers-and-electronics/32/Appliances-03-128.png" parent="1" vertex="1">
+        <mxCell id="tBXFolUEibetbll4YTJQ-22" value="&lt;div&gt;Klassenraum-&lt;/div&gt;&lt;div&gt;LED-Display&lt;br&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/kitchen-appliances-computers-and-electronics/32/Appliances-03-128.png" parent="1" vertex="1">
           <mxGeometry x="70" y="393" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tBXFolUEibetbll4YTJQ-23" value="&lt;div&gt;/&lt;b&gt;LF50&lt;/b&gt;/ Luftqualität&lt;/div&gt;&lt;div&gt;&lt;b&gt;anzeigen&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
