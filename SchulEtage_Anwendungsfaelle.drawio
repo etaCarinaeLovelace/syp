@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T00:02:00.123Z" agent="5.0 (Windows)" etag="5zrY-tWcyCa6bA7zXscc" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T00:21:33.127Z" agent="5.0 (Windows)" etag="t5HOX7MeMO122NJXMdlQ" version="13.10.0" type="github">
   <diagram id="NjPx6L6P-f17HurSo4oa" name="Page-1">
     <mxGraphModel dx="862" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qhoi1r529fdLRaInAgnT-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/STROKE/musical_instruments/png/128/gong.png" vertex="1" parent="1">
+        <mxCell id="qhoi1r529fdLRaInAgnT-22" value="Gong" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/STROKE/musical_instruments/png/128/gong.png" vertex="1" parent="1">
           <mxGeometry x="60" y="450" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="qhoi1r529fdLRaInAgnT-23" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qhoi1r529fdLRaInAgnT-13">
