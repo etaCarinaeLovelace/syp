@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T15:09:10.915Z" agent="5.0 (Windows)" etag="ET_OYHA6V0kYN3CgDig8" version="13.10.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-07T23:16:00.133Z" agent="5.0 (Windows)" etag="aIXTMWgg_QhXafeeR8QS" version="13.10.9" type="github" pages="2">
   <diagram id="NjPx6L6P-f17HurSo4oa" name="Page-1">
-    <mxGraphModel dx="1014" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tBXFolUEibetbll4YTJQ-2" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="30" width="560" height="660" as="geometry" />
+          <mxGeometry x="155" y="-20" width="560" height="660" as="geometry" />
         </mxCell>
         <mxCell id="tBXFolUEibetbll4YTJQ-3" value="&lt;div align=&quot;center&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px&quot;&gt;IoT-SchulEtageIS&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="382" y="51" width="158" height="20" as="geometry" />
@@ -208,6 +208,15 @@
             <mxPoint x="430" y="520" as="targetPoint" />
             <Array as="points">
               <mxPoint x="670" y="611" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ybmEAmw0rSQ-0pGtQlzz-1" value="" style="endArrow=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9SOSTXnZhE5BCoiOVBkw-1" target="tBXFolUEibetbll4YTJQ-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
